@@ -4,10 +4,10 @@ Poke is a command-line tool with gdb-like syntax for live process memory patchin
 
 ## usage
 poke <pid> [0|b|h|d|g] <addr> <val>
-  pid - process id
-  0 - just read
-  b|h|d|g - gdb-like write size modifer
-  addr - address (hex)
-  val - value (hex)
+  * pid - process id
+  * 0 - just read
+  * b|h|d|g - gdb-like write size modifer
+  * addr - address (hex)
+  * val - value (hex)
 
 Let the cheat begin!
