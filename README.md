@@ -1,5 +1,5 @@
 # poke
-Everynody wants a simple, yet powerful, cheat-engine like capability on linux!
+Everybody wants a simple, yet powerful, cheat-engine like capability on Linux!
 Poke is a command-line tool with gdb-like syntax for live process memory patching based on ptrace.
 
 ## usage
